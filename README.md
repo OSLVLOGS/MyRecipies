@@ -1,1 +1,2 @@
 # MyRecipies
+Simple fried rice
